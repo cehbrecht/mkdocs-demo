@@ -1,0 +1,8 @@
+# conda env create -f environment.yml
+name: mkdocs
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3
+  - mkdocs
