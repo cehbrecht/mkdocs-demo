@@ -6,4 +6,5 @@ nav:
     - Test Pages:
         - Overview: test-pages/index.md
         - Test: test-pages/test.md
+        - Test 2: test-pages/test2.md
 # theme: readthedocs
