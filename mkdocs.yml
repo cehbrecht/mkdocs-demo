@@ -5,4 +5,5 @@ nav:
     - About: about.md
     - Test Pages:
         - Overview: test-pages/index.md
+        - Test: test-pages/test.md
 # theme: readthedocs
